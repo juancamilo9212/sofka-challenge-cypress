@@ -1,0 +1,9 @@
+#ignore results
+results/
+
+#ignore mochawesome-report
+mochawesome-report/
+
+#ignore videos
+videos/
+node_modules

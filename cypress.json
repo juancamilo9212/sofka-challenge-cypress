@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://34.69.212.3/",
+  "testFiles": "**/*.feature",
+  "video": false,
+  "env": {
+    "apiUrl": "http://staging-apioursofka.sofka.com.co/",
+    "webUrl": "http://34.69.212.3/",
+    "RETRIES": 1
+  },
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  },
+  "projectId": "yfwr3j"
+}

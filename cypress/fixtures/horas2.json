@@ -1,0 +1,181 @@
+{
+    "days": [
+        {
+            "date": 1593147600000,
+            "totalHours": 15,
+            "totalMinutes": 25,
+            "workDoneList": [
+                {
+                    "id": "5ef6abcb54323470b97c0eb5",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "9c35e47b-da74-4fdd-845d-e2e1c554f7da",
+                    "nameProject": "EXO Work",
+                    "date": 1593147600000,
+                    "description": "API Testing",
+                    "service": "Qa",
+                    "hours": 8,
+                    "minutes": 0,
+                    "type": "Normal",
+                    "hoursType": {
+                        "name": "Normal",
+                        "type": "NORMAL",
+                        "billable": true,
+                        "usable": true,
+                        "typeName": "NORMAL"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                },
+                {
+                    "id": "5ef6c2e554323470b97c0ecb",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "9c35e47b-da74-4fdd-845d-e2e1c554f7da",
+                    "nameProject": "EXO Work",
+                    "date": 1593147600000,
+                    "description": "Functional test cases",
+                    "service": "Qa",
+                    "hours": 2,
+                    "minutes": 0,
+                    "type": "Normal",
+                    "hoursType": {
+                        "name": "Normal",
+                        "type": "NORMAL",
+                        "billable": true,
+                        "usable": true,
+                        "typeName": "NORMAL"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                },
+                {
+                    "id": "5ef6c54754323470b97c0ecf",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "9c35e47b-da74-4fdd-845d-e2e1c554f7da",
+                    "nameProject": "EXO Work",
+                    "date": 1593147600000,
+                    "description": "Test Automation",
+                    "service": "Qa",
+                    "hours": 3,
+                    "minutes": 0,
+                    "type": "Normal",
+                    "hoursType": {
+                        "name": "Normal",
+                        "type": "NORMAL",
+                        "billable": true,
+                        "usable": true,
+                        "typeName": "NORMAL"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                },
+                {
+                    "id": "5ef6c95f54323470b97c0ed0",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "9c35e47b-da74-4fdd-845d-e2e1c554f7da",
+                    "nameProject": "EXO Work",
+                    "date": 1593147600000,
+                    "description": "Cypress Test Automation",
+                    "service": "Qa",
+                    "hours": 2,
+                    "minutes": 25,
+                    "type": "Normal",
+                    "hoursType": {
+                        "name": "Normal",
+                        "type": "NORMAL",
+                        "billable": true,
+                        "usable": true,
+                        "typeName": "NORMAL"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                }
+            ]
+        },
+        {
+            "date": 1593313434477,
+            "totalHours": 6,
+            "totalMinutes": 33,
+            "workDoneList": [
+                {
+                    "id": "5ef804ab54323470b97c100c",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "9c35e47b-da74-4fdd-845d-e2e1c554f7da",
+                    "nameProject": "EXO Work",
+                    "date": 1593313434477,
+                    "description": "Casos de prueba funcionales",
+                    "service": "Qa",
+                    "hours": 6,
+                    "minutes": 33,
+                    "type": "Permiso",
+                    "hoursType": {
+                        "name": "Permiso",
+                        "type": "PAYROLL_CHANGES",
+                        "billable": false,
+                        "usable": true,
+                        "typeName": "PAYROLL_CHANGES"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                }
+            ]
+        },
+        {
+            "date": 1593320400000,
+            "totalHours": 8,
+            "totalMinutes": 0,
+            "workDoneList": [
+                {
+                    "id": "5ef8775a54323470b97c105f",
+                    "idSofkiano": "5e838b3444becf19bc217a3a",
+                    "nameSofkiano": "JUAN CAMILO CAMARGO MONTES",
+                    "payrollCompany": "CONSULTORES SAT",
+                    "idCompany": "a8a990ee-d986-4a8a-b5b8-eb5ace14e3a0",
+                    "nameCompany": "MooveIT",
+                    "idProject": "808d44a1-91d0-4200-a6da-fa71239e87db",
+                    "nameProject": "Chain of Custody",
+                    "date": 1593320400000,
+                    "description": "Visual Testing",
+                    "service": "Qa",
+                    "hours": 8,
+                    "minutes": 0,
+                    "type": "Normal",
+                    "hoursType": {
+                        "name": "Normal",
+                        "type": "NORMAL",
+                        "billable": true,
+                        "usable": true,
+                        "typeName": "NORMAL"
+                    },
+                    "hourlyRate": 0,
+                    "fixed": true,
+                    "costCompany": 15000
+                }
+            ]
+        }
+    ]
+}
